@@ -15,7 +15,3 @@ def study_schedule(permanence_period, target_time):
             count += 1
 
     return count
-
-    
-
-# permanence_period = [{12,16}, {10,14}, {11,15}, {9,13}]
